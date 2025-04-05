@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+}
+
+.products {
+    display:flex;
+    flex-wrap:nowrap;
+    flex-direction: row;
+}
+
+.item {
+    background-color: white;
+}
+.image {
+    background-color: white;
+    margin:auto;
+}
+.title {
+    background-color: white;
+    margin:auto;
+}
+.price {
+    background-color: white;
+    margin:auto;
+}
